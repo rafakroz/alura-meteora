@@ -5,3 +5,13 @@
 .divs-facilidades {
     width: 325px;
 }
+
+.botao-lilas {
+    background-color: #9353ff;
+}
+
+.verde-limao {
+    color: #DAFF01;
+}
+
+/* img-fluid faz com que a imagem fique no espaço destino a ela. */

@@ -6,8 +6,16 @@
     width: 325px;
 }
 
+.hover-menu:hover {
+    background-color: #6d1ff3;
+}
+
 .botao-lilas {
     background-color: #9353ff;
+}
+
+.botao-lilas:hover {
+    background-color: #6d1ff3;
 }
 
 .verde-limao {
